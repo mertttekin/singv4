@@ -28,6 +28,7 @@ export default class App extends React.Component {
 
 
   function Login({ navigation }) {
+      console.log("test")
     return (
         <View>
             <Image
